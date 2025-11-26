@@ -1,0 +1,4 @@
+outputs/
+data/
+.venv/
+*.csv
