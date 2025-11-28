@@ -2,3 +2,5 @@ outputs/
 data/
 .venv/
 *.csv
+wheels/
+*.pt
